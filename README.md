@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**chapter1123/chapter1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 我是 [苏晗凉]，某中九 数学系学生 🧮
 
-Here are some ideas to get you started:
+### 💡 我目前正在：
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 实变函数学十遍，泛函分析心泛寒
+
+- 微分拓扑躲不脱, 随机过程随机过
+
+- 拓扑学，奇奇怪怪的空间形态
+
+- 最优化方法，只会用不会推导的**fw**
+
+### 我期待合作的方向🤝 ：
+
+- 数学建模项目，曾获国赛国一，美赛一等奖
+
+- 算法优化相关，结合算法与编程
+
+### 我希望在这些方面得到帮助：
+
+- 编程手搓能力，急需大神指点迷津🙇‍♂️🙇‍♂️🙇‍♂️
+
+- 论文写作，如何更规范、清晰地阐述研究成果✍️
+
+### 📬 如何联系我：
+
+邮箱：<ins> 2985355706@qq.com</ins>
